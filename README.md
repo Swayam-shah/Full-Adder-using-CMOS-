@@ -53,5 +53,14 @@ by the same gate.
 ![Full Adder using CMOS](FullAdder/images/fulladdschcmos.png)
 ![Full Adder using FinFET](FullAdder/images/fulladdschfinfet.png)
 ![Full Adder using DOMINO](FullAdder/images/fullladddominoimg.png)
+### Here is the comparision of different parameters 
+| Parameter  | CMOS  | DOMINO  | FinFET   |
+|:----------|:----------|:----------|:----------|
+| No of Transistors | 28 | 20 | 28 |
+| Size of Transistors | 180 nm | 180 nm | 18 nm |
+| Input Voltage | 3 V | 3 V | 1 V |
+| Average Delay | 19.94e-9 s | 10.07e-9 s | 36.14e-12 s |
+
+
 
 
