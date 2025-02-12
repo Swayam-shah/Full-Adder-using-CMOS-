@@ -44,6 +44,13 @@ also known as "3D" transistors. It serves the development of modern nanoelectron
 semiconductor devices. To maximise drive strength and performance, it is typical for a
 single FinFET transistor to comprise numerous fins positioned side by side and all covered
 by the same gate.
-
-
+## Why do we need to change the existing Technique ?
+- We reduce the no of transistors involved
+- We reduce the power consumption 
+- We reduce average delay involved 
+- In case of FinFET Tech. we also reduce the size of transistors
+### Here is the images of the Full Adder circuit using above methods
+![Full Adder using CMOS]["C:\Users\SWAYAM SHAH\OneDrive\Pictures\Screenshots\fulladdschcmos.png"]
+![Full Adder using DOMINO]["C:\Users\SWAYAM SHAH\OneDrive\Pictures\Screenshots\fullladddominoimg.png"]
+![Full Adder using FinFET]["C:\Users\SWAYAM SHAH\OneDrive\Pictures\Screenshots\fulladdschfinfet.png"]
 
