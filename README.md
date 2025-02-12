@@ -50,7 +50,7 @@ by the same gate.
 - We reduce average delay involved 
 - In case of FinFET Tech. we also reduce the size of transistors
 ### Here is the images of the Full Adder circuit using above methods
-![Full Adder using CMOS]["C:\Users\SWAYAM SHAH\OneDrive\Pictures\Screenshots\fulladdschcmos.png"]
-![Full Adder using DOMINO]["C:\Users\SWAYAM SHAH\OneDrive\Pictures\Screenshots\fullladddominoimg.png"]
-![Full Adder using FinFET]["C:\Users\SWAYAM SHAH\OneDrive\Pictures\Screenshots\fulladdschfinfet.png"]
+![Full Adder using CMOS]("fulladdschcmos.png")
+![Full Adder using DOMINO]("fullladddominoimg.png")
+![Full Adder using FinFET]("fulladdschfinfet.png")
 
