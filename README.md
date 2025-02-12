@@ -57,5 +57,12 @@ by the same gate.
 | Size of Transistors | 180 nm | 180 nm | 18 nm |
 | Input Voltage | 3 V | 3 V | 1 V |
 | Average Delay | 19.94e-9 s | 10.07e-9 s | 36.14e-12 s |
-
+## Results 
+I have made a "images" file to show the result of all the methods involved in the project
+## Conclusion 
+The designing of a full adder circuit using the FinFET Technique has been done. We used
+Cadence Virtuoso 6.1.7 software, 18nm technology for analyzing the full adder circuit, and
+made the comparison between the FinFET technique, CMOS logic, and Domino Logic. It
+was found that FinFET gives us very accurate results with minimum delay as compared to
+the CMOS, Domino design logic.
 
