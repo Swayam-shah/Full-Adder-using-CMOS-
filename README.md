@@ -27,4 +27,23 @@ operation. As a result, for a circuit with a large number of transistors, the ar
 very large, and the speed of operation becomes slow. That’s why there is a need to move on
 to another technology that requires a smaller number of transistors and provides a high
 speed of operation
+## DOMINO Logic
+The Domino logic family is used in a wide range of applications that need a
+low transistor count and fast speed of operation, such as microprocessors, dynamic
+memory, digital signal processors, and so on. Domino logic is an advancement in
+CMOS-based dynamic logic approaches that employ either p-MOS or n-MOS for the
+pull-down or pull up the network. The Domino logic methodology for constructing
+complete adders uses less transistors than typical CMOS logic and produces a
+high-performance device.
+## FinFET Technique
+A fin field-effect transistor (FinFET) is a multigate device, a MOSFET
+built on a substrate with the gate put on two, three, or four sides of the 2 channel or wrapped around the channel 
+forming a double or even multi-gate structure.FinFET devices feature far faster switching times and higher
+current density than planar CMOS devices. FinFETs are a form of the non-planar transistor,
+also known as "3D" transistors. It serves the development of modern nanoelectronic
+semiconductor devices. To maximise drive strength and performance, it is typical for a
+single FinFET transistor to comprise numerous fins positioned side by side and all covered
+by the same gate.
+
+
 
